@@ -1,3 +1,5 @@
+#modified from - https://github.com/threelittlemonkeys/lstm-crf-pytorch
+
 import torch
 import torch.nn as nn
 from torch.autograd import Variable as Var
